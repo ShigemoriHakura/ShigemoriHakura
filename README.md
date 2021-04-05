@@ -2,6 +2,8 @@
 <br />
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ShigemoriHakura&layout=compact)
 
+### 我再给A站写东西，我就骂自己是傻逼一天100次，持续100天。欢迎监督！
+
 ## 关于我
 * [x]目标是后宫开满
 * 目标是更强的全栈工程师
