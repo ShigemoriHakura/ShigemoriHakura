@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img width="66%" src="https://github-profile-trophy.vercel.app/?username=ShigemoriHakura&column=5&margin-w=5&margin-h=5&theme=discord"/>
+<img width="66%" src="https://github-profile-trophy-kannan.vercel.app/?username=ShigemoriHakura&column=5&margin-w=5&margin-h=5&theme=discord"/>
 </p>
 
 <p align="center">
@@ -26,3 +26,4 @@
 * GNN真好玩
 * 这世界，唯有摸鱼是真谛，请加入我们摸鱼神教，拒绝卷王人生。加入我们摸鱼教，你能得到无上的摸鱼幸福！
 * 坏了，这下只有我最摸了！
+* 怎么就2026年了？？？？？
