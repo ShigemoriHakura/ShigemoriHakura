@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-<img width="66%" src="https://github-profile-trophy-orcin-eta.vercel.app/?username=ShigemoriHakura&column=5&margin-w=5&margin-h=5&theme=discord"/>
+<img width="66%" src="https://github-profile-trophy-wheat-ten.vercel.app/?username=ShigemoriHakura&column=5&margin-w=5&margin-h=5&theme=discord"/>
 </p>
 
 <p align="center">
-<img width="66%" src="https://github-profile-trophy-orcin-eta.vercel.app/api?username=ShigemoriHakura&theme=algolia&show_icons=true&count_private=true"/>
+<img width="66%" src="https://github-profile-trophy-wheat-ten.vercel.app/api?username=ShigemoriHakura&theme=algolia&show_icons=true&count_private=true"/>
 </p>
 
 <p align="center">
